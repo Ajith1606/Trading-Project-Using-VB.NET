@@ -1,0 +1,11 @@
+D:\PROGRAMMING\CKA\FUNDAMENTALS\DOT NET\Back End\Visual Basic.Net\Vb.Net - Trading\Trading\TradingBo\bin\Debug\TradingBo.dll.config
+D:\PROGRAMMING\CKA\FUNDAMENTALS\DOT NET\Back End\Visual Basic.Net\Vb.Net - Trading\Trading\TradingBo\bin\Debug\TradingBo.dll
+D:\PROGRAMMING\CKA\FUNDAMENTALS\DOT NET\Back End\Visual Basic.Net\Vb.Net - Trading\Trading\TradingBo\bin\Debug\TradingBo.pdb
+D:\PROGRAMMING\CKA\FUNDAMENTALS\DOT NET\Back End\Visual Basic.Net\Vb.Net - Trading\Trading\TradingBo\bin\Debug\TradingBo.xml
+D:\PROGRAMMING\CKA\FUNDAMENTALS\DOT NET\Back End\Visual Basic.Net\Vb.Net - Trading\Trading\TradingBo\obj\Debug\TradingBo.Resources.resources
+D:\PROGRAMMING\CKA\FUNDAMENTALS\DOT NET\Back End\Visual Basic.Net\Vb.Net - Trading\Trading\TradingBo\obj\Debug\TradingBo.vbproj.GenerateResource.cache
+D:\PROGRAMMING\CKA\FUNDAMENTALS\DOT NET\Back End\Visual Basic.Net\Vb.Net - Trading\Trading\TradingBo\obj\Debug\TradingBo.vbproj.CoreCompileInputs.cache
+D:\PROGRAMMING\CKA\FUNDAMENTALS\DOT NET\Back End\Visual Basic.Net\Vb.Net - Trading\Trading\TradingBo\obj\Debug\TradingBo.dll
+D:\PROGRAMMING\CKA\FUNDAMENTALS\DOT NET\Back End\Visual Basic.Net\Vb.Net - Trading\Trading\TradingBo\obj\Debug\TradingBo.xml
+D:\PROGRAMMING\CKA\FUNDAMENTALS\DOT NET\Back End\Visual Basic.Net\Vb.Net - Trading\Trading\TradingBo\obj\Debug\TradingBo.pdb
+D:\PROGRAMMING\CKA\FUNDAMENTALS\DOT NET\Back End\Visual Basic.Net\Vb.Net - Trading\Trading\TradingBo\obj\Debug\TradingBo.vbprojAssemblyReference.cache
